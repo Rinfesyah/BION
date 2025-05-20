@@ -1,0 +1,21 @@
+EmployeeID,WorkingHours,TasksCompleted,ExperienceYears,Department
+E001,8 jam,20 tasks,2,Admin
+E002,12,40,5,IT
+E003,9,NaN,3,admin
+E004,0,5,0,IT
+E005,NaN,15 tasks,1,it
+E006,8 hours,20,2,HR
+E007,10 jam,30 tugas,3,HR
+E008,7,12,1,hr
+E009,11,35,4,Admin
+E010,NaN,NaN,NaN,it
+E011,12,40,7,Admin
+E012,11 hours,38,6,IT
+E013,10 jam,25 tugas,3,it
+E014,8,20,2,Finance
+E015,6 jam,18 tasks,1,finance
+E016,7,16,2,Admin
+E017,10,30,4,IT
+E018,-1,15,2,it
+E019,13 jam,50,6,IT
+E020,11 hours,35,5,admin
