@@ -1,4 +1,4 @@
-"""Review_ID,Text,Label
+Review_ID,Text,Label
 1,"This product is amazing and works perfectly.",positive
 2,"Very disappointing. It broke after two days.",negative
 3,"Great quality, totally worth the price.",positive
@@ -9,4 +9,3 @@
 8,"Terrible experience, arrived damaged.",negative
 9,"Satisfied with the product. Meets my expectations.",positive
 10,"Worst purchase ever. Nothing works.",negative
-"""
